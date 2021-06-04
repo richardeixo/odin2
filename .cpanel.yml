@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/rpsitesc/public_html/teste-odin/
+    - export DEPLOYPATH=/home/rpsitesc/public_html/odin2/
